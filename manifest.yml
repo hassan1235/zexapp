@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 1920M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: zexapp
+  host: zexapp
+  disk_quota: 1024M
