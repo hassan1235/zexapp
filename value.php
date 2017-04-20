@@ -2,107 +2,70 @@
 $botPintar=array(
 array(
 array(
-"sange",
-"bokep",
-"ngentot",
-"porno",
-"mesum",
+            "sange",
+          "bokep",
+        "ngentot",
+      "porno",
+    "mesum",
 ),
 array(
-"Sunna ha  <name>, Tm back nahiii deeta",
-"Minta link downloadnya dung",
-"Hehe... Backk dia karooo",
-"Back warnaa JAntaaa ho sab jaanta han",
-"ADD closee Warnaaa",
+"",
 )),
 
 array(
 array(
-"http",
-"situs",
-"link",
-"blog",
-"server",
+            "http",
+              "situs",
+                "link",
+                  "blog",
+                    "server",
 ),
 array(
-"Nice post",
-"wah kya post ha",
-"post ha bhaiii",
-"like back dia karooo <name>",
-"back kardeena <name> ?",
+"",
 )),
 
 array(
 array(
-"kecewa",
-"sedih",
-"galau",
-"sakit hati",
+"",
 ),
 array(
-"Sabar yah <name>, tuhan pasti punya rencana lain",
-"<name> jangan sedih dong, <me> jadi ikutan sedih nih",
-"Kacian... <me> juga pernah galau loh",
-"Ada yg lagi galau nueh...",
-"Sakit hati boleh, asal gak pake cemberut",
+"",
 )),
 
 array(
 array(
-"cinta",
-"love",
-"pacar",
-"kekasih",
-"gebetan",
+            "",
 ),
 array(
-"Gara gara cinta <me> sengsara",
-"Cinta itu fuck",
-"<me> gk prnah prcya sama cinta, karna cinta gk prnah prya ma <me>",
-"Kurangilah cinta, dan perbanyaklah berpuasa",
-"Gebetan <me> juga ada, tuh di toko banyak",
+"",
 )),
 
 array(
 array(
-"salkomsel",
-"jempol",
-"like",
+            "salkomsel",
+        "jempol",
+    "like",
 ),
 array(
-"SAbjaanta ha, To ab tum bi jaaanooo <name>",
-"Like back, Nice post",
-"Dorr... Dor... Dor... Likers <me> Booom",
+"",
 )),
 
 array(
 array(
-"gembira",
-"bahagia",
-"senang",
+            "gembira",
+            "bahagia",
+            "senang",
 ),
 array(
-"Barri achiii post haa <name> wah wah",
-"KAbhiii bhool na nahiiii...",
-"Ab ya mera ha mera, Bot <me> sab JAANTa ha",
+"",
 )),
 
 array(
 array(
-"bangsat",
-"sinting",
-"gila",
-"sialan",
-"babi",
-"anjing",
+              "",
 ),
 array(
-"Wew.. Nice post <name> Baat ha teriiii",
-"KArooo ab ageya <me> Zex ka bot",
-"ORr  koii bakwasss nahiiii.. Add CLOSE LIKE and comment back",
-"Nice post  <name> MAan gaee tmha, To back karooo",
-"Rukta nahiii ha <name> MEra bot",
-"Tooo ADD CLOSE like BAck... nice post",
+"",
 )),
 
 array(
@@ -112,267 +75,118 @@ array(
 "dajjal",
 ),
 array(
-"Nice post ha bhaiii, Karta rahooo ",
-"Like back ",
-"comment back",
+"",
 )),
 );
 
 $botNormal=array(
-"Wew statusnya <me> keren
-
-<mess>
-
-Tu kan keren banget",
-"Wew statu Achaww ha <me> Samjha ;)
-
-<mess>
-
-To thoooko back phirrr <name> wrna <me> Unfriend karsakta ha",
-"Kya karta ho yrr PAtA bI ha <me> KA B0t HA naww
-
-<mess>
-
-Teriii Post... Kaamal ha bhaiii...",
-"Dekhiii ha Bhaii posT ulTER ha
-
-<mess>
-
-Saab janta haan.. <me> koooo",
-"Kalo ngelike pake robot auto bisa ngopy status org loh
-
-<mess>
-
-yeah... <me> di lawan",
-"YA naam ha mera <me> official ha , sab <me> kooo janta han mujha tooo samjhaa kya........
-
-<mess>
-
-Hihihihi...",
-"Justnow, <me> Stay connected ADd close <name> ok
-
-<balik>
-
-NA kardiii bachoon walli bat... Chooor yar ni samjha ga , hehe",
-"Gak ada kerjaan pngen balik statusnya <name> ah..
-
-<balik>
-
-Wkwkwkwk",
-"Achaww g aeesa ha kyaa?
-
-<balik>
-
-mangeee aaj  <name> tera StaTus ko ",
-"Personal bot <me> ka bakiii
-
-<balik>
-
- <me> ka bot 24/7 challta ha bhaii",
-"<me> Ka bot ha chalta ha ruk ta nahiiii <name>",
-"Bot <me> ka  To JinAAB  <name> back BI Mujha DEeena ",
-"DEkhooo ab <me>  online ha, to <me> Back bi milna chaheyaa warna pata haa SAb KOOOooo, Achawww hmmmm, haha",
-"KArdia maana sab ko comment or like bi baara manHOOOS han jo <me> ko Back nahiii detta ...
-
-Kya Samjha :D",
-"JAntaa hooo naww <me> Kooo, GG <me> Ka bot facebook pa sa <me> ka Fan han, hehe",
+"",
 );
 
 $botNomer=array(
 array(
-"JAb... Like back or ADD closee Warnaaa Unfriend kardoon ga <name>",
-"YRrr BacK bi DIAA KAROOOOOO",
-"KEsaaa ha <me> KA b0t Inboxx maroo ",
-"Comment and like back nice post <name> ",
-"Comment done like done ADD close Baat Done  <name>",
-"Sidhiii bat no bakwasss ADD Close ",
+"",
 ),
 array(
-"Yah post to awlaaa ha apki <name>",
-"NA karoooo <juara> Bot  <me> ka haaa",
-"<juara> suna ha ADD close nahiii kartaa????, Add Closee warna....... ;) ",
-"<juara> Siaapa ha  , Post tera , Like or comment <me> ka",
-"Boom ha <me> KA boot <juara> Kya samjhaaa",
-"Ab orrr bat na karna  <me> sa Sidaaa ADd CLOse",
-"sab jaaaaaanta han <me> ko SIdaaaah ADD CLOSE maroo",
+"",
 ),
 array(
-"Busyyy ma thaaa bot nahiii,Kya samjhaa?, Like comment back ",
-"NA karrr papu aeesi bat <juara> mera bot tera sath :p",
-"ADD me full back milla ga  <juara> Inboxxx For bot ;) ",
-"Haddd ha karta han <name> kooii    <me> ka muqabla nahii ",
-"ADD CLOSE <juara> Nice post, <me> ka bot on ha, <juara> Line pa aooo ",
+"G ?",
 ),
 array(
-"Yaaa ha.....<me> Ka personal bot",
-"Nice possst had ha ADD CLOSE <juara>",
-"Hadd hoooti ha... Like Back NA milllaaa PhiRR BhaaR ma GAEEe tuM",
-"Sorry Busyyy tha , Ab SAb Ko backKK milla ga, WarNA unFriEND karDOOO :D <juara>",
-"FAn HA MeRa :-* <name> YAd Rakh na MUJHA bhool na jaana, JustNOW mILtA RAhAA gA, ProMOte BI KiYA karoOO <me> KO ",
+"",
 ));
 
 $botPhoto=array(
-"Wah Like Back kia karoo <name> Tang nahiii karrrtaaa",
-"Sab SA Best BOt ha Sirf Or sirf <me> ka kyun ??",
-"Wuih... ab juSt Now HA too <name> Back Bi doooo",
-"Inbox karoo....? Bot ha personal <me> ka ",
-"<me> Jesa Koiii naee  Wow... Achii posssst ha",
-"Sunooo.... Like Backkkkk diaaaaaa karoooo <name> ???",
-"KAmal Ki Edit ha yrrr , Ab <me> online ha to Back Milna Chaheya",
-"Sub Add Karooo mujha.... MEra BOt KAaaaa SaB fan HAiN",
-"NAaam Mera  <me> HA, Kaam ko gooli maroo :P",
-"aaaja vekh la bot mera ... Nahiii ha MEra BOt Jesa ORr",
-"<me> KA perSOnaL bot HA , Like BAcK or JuStnow, hehe",
-"Duniyaa janti ha mujha Samajh aee KYA <name> :-*",
-"Personal b0T so00., kisi or da nee mera bot da :p ...",
-"BaCK bi kia karoo, <me> ka bot on ha ",
-"Kya Editing ha , Nice post ",
-"Use karooo photoshop Jawanii ha... Hamarii bi Edit kardiaa karooo ;)",
-"<me> Ab ageeeya to sab ko milla ga naaaa ;) ",
-"Kyaaa haal ha  ? ADD CLOSE",
-"Ham ko bhool naaaa naee Like COoment BaCK <me> ",
-"Kaya Post HA bhaiiii Poster Bnaaloon ???, oh hooo,, par ni bnaaana :D ",
-"FOllow KAroo SaB ? or B0t LA loooo",
+"",
 );
 
 function getJam($name){
 $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23');
 
 $sapa=array(
-'Wah Wah Kya post HA',
-'Walla Saee Post Kia tum na',
-'MEra tarraf sa 10/10',
-'Post ho to JEsa Tumhaari ',
-'TumHAara post AWLaaa',
-'Tum hi hoo bas famous tum hi hoo :D',
-'Itna Famous ha dekhooo',
-'MEra BOT FIRE pa Ha',
-'JEsa Comment dia WEsa BACK ',
-'Ab kya kareen ',
-'LAaalaAA bhai mera tarraf sa Comment',
-'Like and comment back',
-'Back kardeen ',
-'Justnow ha mera ',
-'Abi to bot on kia ha :-*',
-'Sir SA PAoontak Chemical ha weapon',
-'Walla khan ka dil jeet lia',
-'PRomoTe bi karoo',
-'Tumhaara post post ha ',
-'Bhai hoogeya aik bar to hogeya',
-'Kya kareeen bot ha naww',
-'BOt mera ha kush ',
-'Personal ha naww ;)',
-'Apna Bot HA JIGAR'
+'',
+
 );
 
 $hari=array(1=>
-"Date YAD RakH Na",
-"YA ha DAte",
-"Date NOte kAr PApU",
-"DatE deKH LO",
-"DAte KA MutabIK",
-"GOOGLE KI DATe HA",
-"WAlla Ya hi DAtE ha AAj"
+"",
 );
 
 $bulan=array(1=>
-"Januari",
-"Februari",
-"MarcH",
-"April",
-"Mei",
-"Jun",
-"Juli",
-"August",
-"September",
-"Oktober",
-"November",
-"Desember"
+                                "",
 );
 
 $hr = $hari[gmdate('N',time()+60*60*7)];
 $tgl = gmdate('j',time()+60*60*7);
-$bln =
+$bln = 
 $bulan[gmdate('n',time()+60*60
 *7)];
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return '(^^^) 💀 👉👉 '.$jam.' '.$name.'
-(^^^) 💀 👉👉 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn;
+return ' '.$jam.' ♥ ɢʀᴇᴀᴛ
+✔ ᴛᴏᴘᴘᴇʀ ♥ ᴀᴅᴅ ᴍᴇ ᴄʟᴏᴤᴇ
+քσwєrєδ вч мє 🙃🙂
+
+
+ '.$hr;
 }
 
 function getPower($nm,$tm,$tk){
-$gwe=getUrl('/me',$tk,array(
+$gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
 $by=array(
-'Bot USeR',
-'Robot like by',
-'Bot Auto by',
-'Robot automatic by',
+      '',
 );
 $punyu=array(
-'Coool ha jiii',
-'Wew.. Selisih',
-'NICE HMMMM',
-'Asik selisih',
-'CommENT LAaaLAaaa BHAII',
-'BotPersonal ha',
-'WAh wha selisih',
-'Kya YaD rAKHO ga',
-'DEkhh LO bot MEra ha',
-);
+                   '',
+               );
 $back=array(
-'Like AND cOMMENT Back',
-'Yad RaKh NAA',
-'Like back',
-'Fire HA BOT MERA',
-'BOT ON FIRE',
+'',
 );
 $text=$punyu[rand(0,count($punyu)-1)];
 $n=substr($tm,11,8);
 $l=explode(':',$n);
 $t=((gmdate('i')*60)+gmdate('s'))-(($l[1]*60)+$l[2]);
 $m=floor($t/60);
-$d=$t-($m*60);
-if($d<0){
-return false;
+  $d=$t-($m*60);
+     if($d<0){
+        return false;
+           }else{
+              if($m==0){
+$ups=$text.' '.$d.' Seconds ??';
 }else{
-if($m==0){
-$ups=$text.' '.$d.' Likes meRI tARRAF sA :)';
-}else{
-$ups=$text.' '.$m.' Likes :D '.$d.' Comments MEri tarrAF sa :v ';}
+$ups=$text.' '.$m.'  '.$d.'  ';}
 }
 $me=$by[rand(0,count($by)-1)];
 $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='ZEX';
+$site='';
 $true=$ops.'
-(^^^) 💀 👉👉 '.$eps.'
-(^^^) 💀 👉👉 '.$ups.'
-(^^^) 💀 👉👉 '.$ips.'
-(^^^) 💀 👉👉 '.$site;
+ '.$ips.'
+ '.$site;
 
 return $true;
 }
 
 function getStr($mes,$psn,$nam,$me,$in,$exe=null){
 $array=array(
-'<me>',
-'<name>',
-'<mess>',
-'<balik>',
+                  '<me>',
+              '<name>',
+          '<mess>',
+      '<balik>',
 '<juara>',
 );
 $space=array(
 $me,
-$nam,
-$psn,
-strrev($psn),
-$exe,
+     $nam,
+          $psn,
+               strrev($psn),
+                    $exe,
 );
 $couse=str_replace($array,$space,$mes);
 if($in=='on'){
